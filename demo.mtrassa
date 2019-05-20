@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trassa>
+    <StartTrassa version="0.1" pk="179+0.000" x="14013.132" y="15347.034" Lpk="100"/>
+    <Npk id="0" NNpk="181" NpL="101.364"/>
+    <Npk id="1" NNpk="188" NpL="114.406"/>
+    <Npk id="2" NNpk="195" NpL="104.485"/>
+
+    <TrassaPlan id="0" Type="Прямая" Xk="13935.2830" Yk="15426.4140" Xck="0.0000"    Yck="0.0000"/>
+    <TrassaPlan id="1" Type="Кривая" Xk="13746.3780" Yk="15600.2130" Xck="12150.3848"  Yck="13675.9457"/>
+    <TrassaPlan id="2" Type="Прямая" Xk="13593.9250" Yk="15726.6590" Xck="0.0000"    Yck="0.0000"/>
+    <TrassaPlan id="3" Type="Кривая" Xk="13144.3570" Yk="15824.5100" Xck="13274.7258" Yck="15341.8052"/>
+    <TrassaPlan id="4" Type="Прямая" Xk="12591.7970" Yk="15675.2750" Xck="0.0000"    Yck="0.0000"/>
+    <TrassaPlan id="5" Type="Кривая" Xk="12423.0080" Yk="15601.0520" Xck="12752.1238" Yck="15081.6454"/>
+
+    <TrassaPerehod id="0" PkNach="184+24.6580" LpNach="80.0000" CNach="40000" q="0.1320" z="0.5330" PkKon="188+102.826" LpKon="80.0000" CKon="40000" h="0.120"/>
+    <TrassaPerehod id="1" PkNach="194+60.2480" LpNach="80.9460" CNach="49774" q="0.1090" z="0.4440" PkKon="196+40.8940" LpKon="80.9460" CKon="49774" h="0.110"/>
+
+    <TrassaProfil id="0" PkNach="178+48.4000" H="131.6658" R="0"/>
+    <TrassaProfil id="1" PkNach="179+08.4000" H="131.4860" R="-3000"/>
+    <TrassaProfil id="2" PkNach="179+68.4000" H="128.9058" R="0"/>
+    <TrassaProfil id="3" PkNach="182+24.5630" H="117.8318" R="0"/>
+    <TrassaProfil id="4" PkNach="183+44.5630" H="112.6718" R="5000"/>
+    <TrassaProfil id="5" PkNach="184+64.5630" H="113.2717" R="0"/>
+    <TrassaProfil id="6" PkNach="189+92.3790" H="115.9825" R="0"/>
+    <TrassaProfil id="7" PkNach="190+74.8790" H="116.3950" R="5000"/>
+    <TrassaProfil id="8" PkNach="191+57.5630" H="119.5371" R="0"/>
+    <TrassaProfil id="9" PkNach="194+28.598"  H="129.8369" R="0"/>
+    <TrassaProfil id="10" PkNach="194+90.0980" H="132.174" R="-5000"/>
+    <TrassaProfil id="11" PkNach="195+51.5980" H="131.9897" R="0"/>
+
+    <DemoKolca id="0"  NK="8"  NR="1" XK="13551.329" YK="16665.104" HK="134.454" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="1"  NK="8"  NR="2" XK="13551.596" YK="16664.362" HK="135.728" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="2"  NK="8"  NR="3" XK="13552.110" YK="16662.892" HK="136.406" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="3"  NK="8"  NR="4" XK="13552.847" YK="16660.744" HK="135.514" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="4"  NK="8"  NR="5" XK="13553.088" YK="16660.078" HK="133.714" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="5"  NK="8"  NR="6" XK="13552.810" YK="16660.905" HK="131.752" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="6"  NK="8"  NR="7" XK="13552.229" YK="16662.591" HK="131.037" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="7"  NK="8"  NR="8" XK="13551.569" YK="16664.428" HK="131.818" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="8"  NK="15" NR="1" XK="13560.715" YK="16668.222" HK="134.494" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="9"  NK="15" NR="2" XK="13560.971" YK="16667.431" HK="135.782" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="10" NK="15" NR="3" XK="13561.356" YK="16666.254" HK="136.392" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="11" NK="15" NR="4" XK="13562.069" YK="16664.046" HK="135.802" DK="5.3" BK="1.75" RK="2.700" />
+    <DemoKolca id="12" NK="15" NR="5" XK="13562.347" YK="16663.165" HK="133.490" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="13" NK="15" NR="6" XK="13562.062" YK="16664.046" HK="131.751" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="14" NK="15" NR="7" XK="13561.478" YK="16665.806" HK="131.080" DK="0"   BK="1.75" RK="2.700" />
+    <DemoKolca id="15" NK="15" NR="8" XK="13560.884" YK="16667.632" HK="131.935" DK="0"   BK="1.75" RK="2.700" />
+
+    <DemoRaschet id="0"  NameR="195+42.3512" XR="13551.329" YR="16665.104"/>
+    <DemoRaschet id="1"  NameR="195+42.3402" XR="13551.596" YR="16664.362"/>
+    <DemoRaschet id="2"  NameR="195+42.3325" XR="13552.110" YR="16662.892"/>
+    <DemoRaschet id="3"  NameR="195+42.3346" XR="13552.847" YR="16660.744"/>
+    <DemoRaschet id="4"  NameR="195+42.3233" XR="13553.088" YR="16660.078"/>
+    <DemoRaschet id="5"  NameR="195+42.3171" XR="13552.810" YR="16660.905"/>
+    <DemoRaschet id="6"  NameR="195+42.3179" XR="13552.229" YR="16662.591"/>
+    <DemoRaschet id="7"  NameR="195+42.3443" XR="13551.569" YR="16664.428"/>
+    <DemoRaschet id="8"  NameR="195+32.495"  XR="13560.715" YR="16668.222"/>
+    <DemoRaschet id="9"  NameR="195+32.497"  XR="13560.971" YR="16667.431"/>
+    <DemoRaschet id="10" NameR="195+32.4961" XR="13561.356" YR="16666.254"/>
+    <DemoRaschet id="11" NameR="195+32.5033" XR="13562.069" YR="16664.046"/>
+    <DemoRaschet id="12" NameR="195+32.5123" XR="13562.347" YR="16663.165"/>
+    <DemoRaschet id="13" NameR="195+32.5099" XR="13562.062" YR="16664.046"/>
+    <DemoRaschet id="14" NameR="195+32.5191" XR="13561.478" YR="16665.806"/>
+    <DemoRaschet id="15" NameR="195+32.5173" XR="13560.884" YR="16667.632"/>
+
+    <DemoPredRas id="0"  NamePR="195+42.3512" PKPR="195+42.3512" SMPR="-2.6973"/>
+    <DemoPredRas id="1"  NamePR="195+42.3402" PKPR="195+42.3402" SMPR="-1.9088"/>
+    <DemoPredRas id="2"  NamePR="195+42.3325" PKPR="195+42.3325" SMPR="-0.3516"/>
+    <DemoPredRas id="3"  NamePR="195+42.3346" PKPR="195+42.3346" SMPR="1.9193"/>
+    <DemoPredRas id="4"  NamePR="195+42.3233" PKPR="195+42.3233" SMPR="2.6275"/>
+    <DemoPredRas id="5"  NamePR="195+42.3171" PKPR="195+42.3171" SMPR="1.7551"/>
+    <DemoPredRas id="6"  NamePR="195+42.3179" PKPR="195+42.3179" SMPR="-0.0282"/>
+    <DemoPredRas id="7"  NamePR="195+42.3443" PKPR="195+42.3443" SMPR="-1.9800"/>
+    <DemoPredRas id="8"  NamePR="195+32.4950" PKPR="195+32.4950" SMPR="-2.6573"/>
+    <DemoPredRas id="9"  NamePR="195+32.4970" PKPR="195+32.4970" SMPR="-1.8259"/>
+    <DemoPredRas id="10" NamePR="195+32.4961" PKPR="195+32.4961" SMPR="-0.5875"/>
+    <DemoPredRas id="11" NamePR="195+32.5033" PKPR="195+32.5033" SMPR="1.7327"/>
+    <DemoPredRas id="12" NamePR="195+32.5123" PKPR="195+32.5123" SMPR="2.6565"/>
+    <DemoPredRas id="13" NamePR="195+32.5099" PKPR="195+32.5099" SMPR="1.7305"/>
+    <DemoPredRas id="14" NamePR="195+32.5191" PKPR="195+32.5191" SMPR="-0.1238"/>
+    <DemoPredRas id="15" NamePR="195+32.5173" PKPR="195+32.5173" SMPR="-2.0440"/>
+    
+    <DemoKolcaOS   id="0"  uslK="1"  XuslK="-1000" YuslK="-1000"/>
+    <DemoRaschetOS id="0"  OsR="2"  uslR="1"  XuslR="-1000" YuslR="-1000"/>
+    <DemoPredRasOS id="0"  OsPR="2" uslPR="1" XuslPR="+1000" YuslPR="+1000"/>
+    
+</Trassa>

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/delete_64.png</file>
+        <file>icon/save_64.png</file>
+        <file>icon/Documents.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/logo.ico</file>
+        <file>icon/edit.png</file>
+        <file>icon/folder2.png</file>
+        <file>icon/reload.png</file>
+        <file>icon/qTrassaLogo.svg</file>
+        <file>icon/qTrassaLogo.png</file>
+        <file>icon/deletered.png</file>
+        <file>icon/qTrassaLogo_80x80.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>demo.mtrassa</file>
+    </qresource>
+</RCC>
