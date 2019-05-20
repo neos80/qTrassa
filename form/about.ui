@@ -149,7 +149,7 @@
       </font>
      </property>
      <property name="text">
-      <string>Быков Стас Владимирович</string>
+      <string>Быков Станислав Владимирович</string>
      </property>
     </widget>
    </item>
@@ -172,7 +172,7 @@
       <enum>Qt::LeftToRight</enum>
      </property>
      <property name="text">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'DejaVu Sans,Arial,sans-serif'; font-size:12px; color:#303942;&quot;&gt;© Косоруков О.М. 2014-2019 г. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'DejaVu Sans,Arial,sans-serif'; font-size:12px; color:#303942;&quot;&gt;© Косоруков Олег Михайлович 2014-2019 г. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
